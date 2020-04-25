@@ -1,0 +1,265 @@
+{
+    "來碗拉麵(台南育樂店)":{
+          "storename": "來碗拉麵(台南育樂店)",
+          "storeadress": "台南市育樂街89號",
+          "storephone": "0958069933",
+          "storeLv": "0",
+          "storemeal":
+          [
+            {
+              "mealname": "醬油叉燒拉麵",
+              "mealprice": 70,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣Menu叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "咖哩叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "沙茶叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "蒜辣叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "奶油叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "南洋叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "泰式酸辣叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "日式味噌叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "泡菜叉燒拉麵",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "香濃起士叉燒拉麵",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "鹽味海苔叉燒拉麵",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "醬油叉燒烏龍",
+              "mealprice": 70,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "咖哩叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "沙茶叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "蒜辣叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "奶油叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "南洋叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "泰式酸辣叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "日式味噌叉燒烏龍",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "泡菜叉燒烏龍",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "香濃起士叉燒烏龍",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "鹽味海苔叉燒烏龍",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "牛肉湯拉麵",
+              "mealprice": 60,
+              "mealamount": 0
+            },
+            {
+              "mealname": "牛肉烏龍湯麵",
+              "mealprice": 60,
+              "mealamount": 0
+            },
+            {
+              "mealname": "牛肉細粉湯麵",
+              "mealprice": 60,
+              "mealamount": 0
+            },
+            {
+              "mealname": "紅燒牛肉拉麵",
+              "mealprice": 85,
+              "mealamount": 0
+            },
+            {
+              "mealname": "紅燒牛肉烏龍",
+              "mealprice": 85,
+              "mealamount": 0
+            },
+            {
+              "mealname": "紅燒牛肉細麵",
+              "mealprice": 85,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣牛肉拉麵",
+              "mealprice": 90,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣牛肉烏龍",
+              "mealprice": 90,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣牛肉細麵",
+              "mealprice": 90,
+              "mealamount": 0
+            },
+            {
+              "mealname": "原味叉燒拌麵",
+              "mealprice": 70,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "咖哩乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "沙茶乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "蒜辣乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "奶油乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "南洋乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "泰式酸辣乾拌麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "泡菜乾拌麵",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "香濃起士乾拌麵",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "鹽味海苔乾拌麵",
+              "mealprice": 80,
+              "mealamount": 0
+            },
+            {
+              "mealname": "紅燒牛肉乾拌麵",
+              "mealprice": 85,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣牛肉乾拌麵",
+              "mealprice": 90,
+              "mealamount": 0
+            }
+          ]
+        },
+    "某間拉麵(台南育樂店)":{
+          "storename": "來碗拉麵(台南育樂店)",
+          "storeadress": "台南市育樂街89號",
+          "storephone": "0958069933",
+          "storeLv": "0",
+          "storemeal":
+          [
+            {
+              "mealname": "醬油叉燒拉麵",
+              "mealprice": 70,
+              "mealamount": 0
+            },
+            {
+              "mealname": "麻辣叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            },
+            {
+              "mealname": "咖哩叉燒拉麵",
+              "mealprice": 75,
+              "mealamount": 0
+            }
+          ]
+        }
+}
